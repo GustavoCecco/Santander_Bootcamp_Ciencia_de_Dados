@@ -1,0 +1,31 @@
+Comandos de Git
+
+git init: Inicializa um repositório Git em um diretório local.
+git add: Adiciona arquivos ou diretórios ao índice do Git.
+git commit: Cria um commit, que é uma unidade de alteração no código-fonte.
+git status: Mostra o status do repositório local.
+git log: Mostra o histórico de commits.
+git checkout: Muda para uma branch específica.
+git branch: Cria ou lista branches.
+git merge: Combina alterações de duas branches.
+git push: Envia alterações para um repositório remoto.
+git pull: Puxa alterações de um repositório remoto.
+git diff: Mostra as alterações entre o índice e o último commit.
+git difftool: Abre um visualizador de diferenças para comparar dois arquivos ou diretórios.
+git stash: Armazena temporariamente as alterações feitas no índice.
+git reset: Desfaz alterações feitas no índice ou no histórico.
+git revert: Desfaz um commit específico.
+
+Comandos de GitHub
+
+git clone: Clona um repositório do GitHub para um diretório local.
+git remote add: Adiciona um repositório remoto ao Git.
+git remote show: Mostra informações sobre um repositório remoto.
+git push -u origin main: Envia alterações para a branch main do repositório remoto chamado origin.
+git pull origin main: Puxa alterações da branch main do repositório remoto chamado origin.
+
+Comandos adicionais
+
+gitignore: Especifica quais arquivos não devem ser incluídos no repositório.
+git config: Configura as preferências do Git.
+git help: Mostra a ajuda do Git.

@@ -6,10 +6,10 @@ O Santander Bootcamp 2023 - Ciência de Dados com Python é um programa de forma
 
 O bootcamp tem duração de 12 semanas e é dividido em 4 módulos:
 
-Módulo 1: Fundamentos de Python
-Módulo 2: Análise Exploratória de Dados
-Módulo 3: Machine Learning
-Módulo 4: Projetos de Ciência de Dados
+- Módulo 1: Fundamentos de Python
+- Módulo 2: Análise Exploratória de Dados
+- Módulo 3: Machine Learning
+- Módulo 4: Projetos de Ciência de Dados
 
 O conteúdo do bootcamp é ministrado por especialistas da área de Ciência de Dados e inclui aulas teóricas e práticas, além de desafios e atividades que permitem aos participantes aplicarem os conhecimentos adquiridos.
 

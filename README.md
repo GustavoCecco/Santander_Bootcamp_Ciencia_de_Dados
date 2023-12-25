@@ -14,8 +14,9 @@ O bootcamp tem duração de 12 semanas e é dividido em 4 módulos:
 O conteúdo do bootcamp é ministrado por especialistas da área de Ciência de Dados e inclui aulas teóricas e práticas, além de desafios e atividades que permitem aos participantes aplicarem os conhecimentos adquiridos.
 
 
-## 💻 Resumos e Projetos
+## 💻 Resumos e Projetos - Em andamento
 
 | Módulo/Projeto                             | Link          | Observação                                                                                        |
 |--------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
 | **Versionamento de Código**                 | [Acesse Aqui](/bootcamp_santander/git/README.md) | **Git e GitHub do básico ao avançado (c/ gist e GitHub Pages):** Dominar o controle de versão é essencial para qualquer desenvolvedor. Este curso abrange os conceitos fundamentais e avançados do Git, juntamente com o uso do GitHub para hospedagem e colaboração. Aprenda como usar recursos como gist e GitHub Pages para compartilhar e apresentar seus projetos.  |
+| **Curso de Python 3**                             | [Acesse Aqui](/bootcamp_santander/python/README.md)        | Python é uma linguagem fundamental para análise de dados. Neste curso abrangente, você explorará desde os conceitos básicos até os avançados. Além disso, terá a oportunidade de trabalhar em projetos reais, aplicando suas habilidades em várias áreas, como desenvolvimento web, automação e algoritmos.                                                                                                   |

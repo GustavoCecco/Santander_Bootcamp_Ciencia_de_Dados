@@ -9,5 +9,5 @@
 
 ## 💻 Desafios
 
-- [Desafio 01](/bootcamp_santander/python/01%20-%20Estrutura%20de%20dados/desafio.py)
+- [Desafio 01](/bootcamp_santander/python/01%20-%20Estrutura%20de%20dados/README.md)
 - [Desafio 02](/bootcamp_santander/python/02%20-%20Programação%20Orientada%20a%20Objetos/10%20-%20desafio/)

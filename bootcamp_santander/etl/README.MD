@@ -31,4 +31,4 @@ A segunda linha itera sobre a lista de usuários e usa a função update_user() 
 
 A terceira linha imprime uma mensagem para indicar se a atualização dos dados do usuário foi bem-sucedida.
 
-
+[Acesso o código ETL aqui](/bootcamp_santander/etl/SantanderDevWeek2023.ipynb)

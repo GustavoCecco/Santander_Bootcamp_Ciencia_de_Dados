@@ -14,7 +14,7 @@ O bootcamp tem duração de 12 semanas e é dividido em 4 módulos:
 O conteúdo do bootcamp é ministrado por especialistas da área de Ciência de Dados e inclui aulas teóricas e práticas, além de desafios e atividades que permitem aos participantes aplicarem os conhecimentos adquiridos.
 
 
-## 💻 Resumos e Projetos - Em andamento
+## 💻 Resumos e Projetos
 
 | Módulo/Projeto                             | Link          | Observação                                                                                        |
 |--------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
